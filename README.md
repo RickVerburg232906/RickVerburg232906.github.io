@@ -1,0 +1,2 @@
+# Stable_Diffusion_challenge_Rick_Verburg_232906
+generating pictures using stable diffusion
